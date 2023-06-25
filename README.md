@@ -4,6 +4,8 @@ This project is a demo that illustrates how to handle floating promises in JavaS
 
 Floating promises are a common JavaScript pitfall, where a Promise that has been instantiated is not returned, awaited, or otherwise handled, leading to potential unexpected behavior.
 
+[![IT Man - Understanding and Preventing Floating Promises in JavaScript | Tutorial [Vietnamese]](https://i.ytimg.com/vi/hF3yl4iOlwA/hqdefault.jpg)](https://www.youtube.com/watch?v=hF3yl4iOlwA)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
