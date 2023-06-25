@@ -245,6 +245,13 @@ Now, the promise from `sendEmail` is properly handled. If there's any error when
 
 If you have any questions or suggestions, feel free to open an issue or submit a pull request. Your feedback is always welcome!
 
+## Related Videos
+
+[![IT Man - Tech #32 - Async await wrapper for easy error handling without try-catch [Vietnamese]](https://i.ytimg.com/vi/iLB75jzQrJ8/mqdefault.jpg)](https://www.youtube.com/watch?v=iLB75jzQrJ8)
+
+[![IT Man - Tech #30 - Deno 101 - The best developer experience [Vietnamese]](https://i.ytimg.com/vi/ocLNcwm4xUs/mqdefault.jpg)](https://www.youtube.com/watch?v=ocLNcwm4xUs)
+
+
 ## Author
 
 👤 **Huynh Duc Dung @jellydn**
