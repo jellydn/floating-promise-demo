@@ -10,7 +10,7 @@ Floating promises are a common JavaScript pitfall, where a Promise that has been
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed [Node.js](https://nodejs.org/en) and [Bun — A fast all-in-one JavaScript runtime](https://bun.sh/).
+- [Bun — A fast all-in-one JavaScript runtime](https://bun.sh/).
 - You have a basic understanding of JavaScript and [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise).
 
 ## Getting Started
